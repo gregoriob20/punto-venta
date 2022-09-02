@@ -1,0 +1,192 @@
+@CHARSET "ISO-8859-1";
+
+.banner{
+	height: 220px;
+/*	background-image: url("../images/blanco.jpg");*/
+}
+
+.raya{
+	background-image: url("../IMAGENES_SITE/banner.jpg");
+	height: 218px;
+	background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-origin: padding-box;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+}
+
+.logo_min{
+	background-image: url("../IMAGENES_SITE/logo.jpg") ;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 974px;
+}
+
+.footer2{
+	background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #990000;
+    background-image: url("../IMAGENES_SITE/footer_bg_img.jpg");
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    color: #FFFFFF;
+    font-family: 'DroidSerifItalic',Arial,Helvetica,sans-serif;
+    height: 100px;
+}
+
+.inner {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: url("../IMAGENES_SITE/footer_topline.png");
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat-x;
+    background-size: auto auto;
+    height: 15px;
+}
+
+.container_12{
+	min-height: 82px;
+    padding-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 35px;
+    text-shadow: 1px 1px 1px #000000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+	
+}
+
+* { 
+    margin: 0; 
+    padding: 0; 
+}/*Quitamos unas propiedades que por defecto traen los navegadores y las ponemos en “0”*/ 
+html, body {
+    height: 100%; 
+}
+#wrap { 
+    min-height: 68%;
+    margin-top: -25px;
+    margin-bottom: 5px;
+    background: white;
+    border: 1px solid #fff;
+    -moz-border-radius: 4em 4em 0 0;
+    border-radius: 4em 4em 0 0;
+}
+#main { 
+    overflow: auto; 
+    padding-bottom: 0px; 
+    text-align: center; 
+}/* Altura en px del footer */ 
+#footer { 
+    position: relative; 
+    margin-top: -50px; /* altura en px del footer con valor negativo */ 
+    height: 50px; /* Altura del Footer en px*/ 
+    clear: both; 
+    background: #286af0; 
+    text-align: center; 
+    color: #FFFFFF; 
+    } /*Opera Fix*/ 
+body:before { 
+    content: ""; 
+    height: 100%; 
+    float: left; 
+    width: 0; 
+    margin-top: -32767px;/* Efecto Negativo para OPERA*/ 
+}
+
+.marco {
+	border: medium #000000;
+	background-image: url(../IMAGENES_SITE/fondo.jpg);
+}
+.marco2 {
+	border: 1px solid #CCCCCC;
+	background-image: url(../images/fondo.png);
+	font-family: Calibri;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+.Titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.VERDE {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	font-style: italic;
+	font-weight: bold;
+	color: #00CC00;
+	text-decoration: none;
+}
+
+.Estilo1 {color: #FFFFFF}
+.cabezal {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	background-image: url(../images/menu_l.png);
+}
+.niveles {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	text-decoration: none;
+}
+.nivelesN {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bolder;
+}
+.asunto {
+
+	border: 1px solid #CCCCCC;
+	font-family: Calibri;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+
+.SISTEMA {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #0033CC;
+}
+
+
+- See more at: http://www.thesmartbuzz.com/diseno/footer-siempre-abajo-html-y-css#sthash.DicpblRG.dpuf.SISTEMA {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: oblique;
+	color: #0033FF;
+	text-decoration: none;
+}
+.ROJO {
+
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	font-style: italic;
+	font-weight: bold;
+	color: #A60000;
+	text-decoration: none;
+}

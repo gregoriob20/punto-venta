@@ -1,0 +1,470 @@
+.texto1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+}
+.texto_nosotros {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	line-height: 25px;
+}
+.texto_gerente {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #56560A;
+}
+.texto_sub_titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #621300;
+	text-decoration: none;
+}
+.texto2 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.sub_titulo_art {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.fondo_art {
+	border: 0px solid #CCCCCC;
+	background-color: #EAEAEA;
+}
+.registro {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #B2BB1C;
+	text-decoration: none;
+	font-weight: bold;
+}
+.texto_Titulo {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.cabezal {
+	font-family: "Courier New", Courier, mono;
+	font-size: 14px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: bold;
+}
+.niveles {
+	font-family: "Courier New", Courier, mono;
+	font-size: 16px;
+	color: #676868;
+	text-decoration: none;
+	font-weight: bold;
+}
+.avances {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0482;
+	text-decoration: none;
+}.texto_resumen {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+}
+.texto_ver_mas {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.texto_nombre_producto {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #621300;
+	text-decoration: none;
+}
+.texto_titulo_productoCopia {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #3366FF;
+	text-decoration: none;
+}
+.Seccion {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.sub_seccion {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.Nombre_user {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #8D8D8D;
+	text-decoration: none;
+}
+.texto_Titulo__lista_proveedores {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #56560A;
+	text-decoration: none;
+}
+.texto_contactenos {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.copy_r{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+.usuario_clave {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+.texto_Destacado_P {
+	text-decoration: none;
+}
+.texto_Titulo2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #621300;
+	text-decoration: none;
+}
+.texto_interes {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.TITULO_FONDO {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	background-color: #C6C6C6;
+}
+.texto_reloj {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.texto_adjunto {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.texto_reloj2 {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.suma_sub {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #8D8D8D;
+	text-decoration: none;
+}
+
+
+.fechapresentacion{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.BORDE {
+	border: thin dotted #0099CC;
+}
+
+.sombra {
+  -webkit-box-shadow: 2px 2px 10px 2px #999;
+  -moz-box-shadow: 2px 2px 10px 2px #999;
+  filter: shadow(color=#999999, direction=135, strength=2);
+}
+
+.campos {
+	font-family: "Courier New", Courier, mono;
+	font-size: 18px;
+	color: #1A1A1A;
+	text-decoration: none;
+	font-weight: bold;
+}
+.borde_foto {
+	border: medium solid #51B6FF;
+}
+
+/******************************************************************************************/
+button {
+ border: none;
+ background: #00A810;
+ color: #f2f2f2;
+ padding: 8px;
+ font-size: 12px;
+ border-radius: 5px;
+ position: relative;
+ box-sizing: border-box;
+ transition: all 500ms ease;
+}
+button:before {
+ content:'';
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ width: 0px;
+ height: 42px;
+ background: rgba(255,255,255,0.3);
+ border-radius: 5px;
+ transition: all 2s ease;
+}
+button:hover:before {
+ width: 100%;
+}
+
+/************************************************************************/
+.boton_nuevo_registro{
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #FF5900;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #E04A00;
+  }
+  
+.boton_continuar{
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #0026FF;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #0026FF;
+  }
+ 
+/************************************************************************/ 
+  .boton_editar{
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #FE9365;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #FE9365;
+  }
+  
+    .boton_incluir{
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #01A9AC;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #01A9AC;
+  }
+  
+  .boton_borrar {
+
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #FA5858;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #FA5858;
+}
+
+  .boton_anular {
+
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #FFFFFF;/* color letra*/
+    background-color: #4680FF;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #CECECE;
+}
+
+  .boton_bloquear {
+
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #969696;/* color letra*/
+    background-color: #C0C0C0;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #CECECE;
+}
+
+  .boton_material {
+
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 8px;
+    font-style: arial;
+    color: #FFFFFF;/* color letra*/
+    background-color: #00A010;/* color boton*/
+    border-radius: 5px;
+    border: 3px double #CECECE;
+}
+  /************************************************************************/
+  .boton_cancelar{
+    text-decoration: none;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 12px;
+    font-style: arial;
+    color: #ffffff;/* color letra*/
+    background-color: #F92F2F;/* color boton*/
+    border-radius: 10px;
+    border: 3px double #F92F2F;
+  }
+  .boton_1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+.texto_cv2 {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+/********************************************  codigo de circulo para fotos ********************/
+.author_article{
+    width: 40%;
+    margin-left: 30%;
+    display: inline-block;
+}
+
+.author_article img{
+    width: 100%;
+    border: 5px solid #F4F4F5;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    overflow: hidden;
+}
+.comment-author {
+    margin: .3em 0;
+}
+.comment-author img {
+    border-radius: 100%;
+
+}

@@ -1,0 +1,62 @@
+#header { 
+  margin:auto;
+  width:1128px;
+  height:auto;   
+  font-family:Verdana, Arial, Helvetica, sans-serif;  
+  padding:0px;    
+  }
+  
+  
+ ol,ul {
+   list-style:none;
+    /*{list-style-position:inside; */
+ }  
+
+ 
+ .nav li a{
+
+/*background-color:#0099FF;   /* Color del fondo del menu*/
+color:#F2F2F2; /* color de la letra */
+text-decoration:none;
+padding-bottom:11px; /*margen inferior*/
+padding-right:15px;/*margen derecho*/
+padding-left:15px;/*margen izquierdo*/
+padding-top:1px;/*margen superior*/
+/*padding:10px 15px; /* el 15px indica separacion entre cada categoria*/
+display:block;
+z-index:40;
+
+}
+
+.nav li a:hover{/** color de fondo Y DE LALETRA del sub menu AL PASAR EL RATON*/
+	z-index:40;
+	color: #FFD800;
+	/*background-color: #2F60AE;*/
+}
+
+
+.nav > li{
+ float:left;
+ z-index:40;
+}
+
+.nav li ul { /** color de fondo del sub menu*/
+
+    background-color:#325AAA;
+	display:none;
+	position:absolute;
+	min-width:140px;
+	z-index:40;
+ }
+ 
+  .nav li:hover > ul {
+ display:block;
+ z-index:40;
+ }
+ 
+  *{
+	/*margin:0px;*/
+	
+	padding:0px;  	
+  }
+  
